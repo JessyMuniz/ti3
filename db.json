@@ -1,0 +1,97 @@
+{
+    "Produtos":[
+        {
+            "id": 1,
+            "nome": "Creme de pentear",
+            "validade":"18/02/2023",
+            "conservação":{
+                "temperatura": "20°C",
+                "peso":"leve",
+                "quantidade":"50 unidades"
+            }
+        },
+        {
+            "id": 2,
+            "nome":"Condicionador",
+            "validade":"13/05/2024",
+            "conservação":{
+                "temperatura":"20°C",
+                "peso":"leve",
+                "quantidade":"39 unidades"
+            }
+        },
+        {
+            "id": 3,
+            "nome":"Reparador de compras",
+            "validade":"05/12/2023",
+            "conservação":{
+                "temperatura":"20°C",
+                "peso":"leve",
+                "quantidade":"34 unidades"
+            }
+        },
+        {
+            "id": 4,
+            "nome":"Shampoo",
+            "validade":"20/01/2024",
+            "conservação":{
+                "temperatura":"20°C",
+                "peso":"leve",
+                "quantidade":"85 unidades"
+            }
+        }
+    ],
+    "Funcionarios":[
+        {
+            "id":1,
+            "nome":"Ana Maria",
+            "idade":"23",
+            "Profissão":"Recepcionista"
+        },
+        {
+            "id":2,
+            "nome":"Bento",
+            "idade":"50",
+            "Profissão":"Estoquista"
+        },
+        {
+            "id":3,
+            "nome":"Camila",
+            "idade":"41",
+            "Profissão":"Farmacêutica"
+        },
+        {
+            "id":4,
+            "nome":"Danilo",
+            "idade":"36",
+            "Profissão":"Gerente"
+        }
+    ],
+    "Lojas":[
+        {
+            "id":1,
+            "nome":"Andaraí",
+            "endereço":"Rua Barão de Mesquita, 796",
+            "tempo de abertura":"3 anos"
+        },
+        {
+            "id":2,
+            "nome":"Bonsucesso",
+            "endereço":"Av. Teixeira de Castro, 24",
+            "tempo de abertura":"10 anos"
+        },
+        {
+            "id":3,
+            "nome":"Copacabana",
+            "endereço":"Rua Siqueira Campos, 115",
+            "tempo de abertura":"5 anos"
+        },
+        {
+            "id":4,
+            "nome":"Deodoro",
+            "endereço":"Rua Brigada Belo - 16",
+            "tempo de abertura":"8 anos"
+        }
+
+    ]
+}
